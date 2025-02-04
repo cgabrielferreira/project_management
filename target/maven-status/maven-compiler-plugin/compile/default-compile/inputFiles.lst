@@ -1,0 +1,13 @@
+/workspaces/project_management/src/main/java/com/crudproduct/management/ManagementApplication.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/config/Config.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/config/SwaggerConfig.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/controllers/CategoryController.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/controllers/ProductController.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/controllers/SupplierController.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/entities/Category.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/entities/Product.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/entities/Supplier.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/repositories/CategoryRepository.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/repositories/ManagementProductRepository.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/repositories/SupplierRepository.java
+/workspaces/project_management/src/main/java/com/crudproduct/management/services/ManagementService.java
